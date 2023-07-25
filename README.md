@@ -2,7 +2,7 @@
 
 Python API Homework - What's the Weather Like?
 
-Equator
+https://raw.githubusercontent.com/DataTell/python-api-challenge/master/WeatherPy/Images/equatorsign.png
 
 Part I - WeatherPy
 
