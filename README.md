@@ -1,5 +1,5 @@
 # python-api-challenge
-![City Latitude vs Cloudiness](https://github.com/sladertorres/python-api-challenge/assets/134868789/76adf4d3-a345-4350-b2da-09afc3b84c5c)
+
 Python API Homework - What's the Weather Like?
 
 Equator
