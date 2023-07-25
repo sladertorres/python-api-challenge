@@ -44,9 +44,7 @@ Note: if you having trouble displaying the maps try running jupyter nbextension 
 
 Create a heat map that displays the humidity for every city from the part I of the homework.
 
-
-![heatmap](https://github.com/sladertorres/python-api-challenge/assets/134868789/45297f57-1c69-4b6f-9802-98045fd60578)
-
+![heatmap](https://github.com/sladertorres/python-api-challenge/assets/134868789/51a17da1-bf5b-4cf8-83fb-b660198e181b)
 
 Narrow down the DataFrame to find your ideal weather condition. For example:
 
