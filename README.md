@@ -1,6 +1,6 @@
 # python-api-challenge
 
-Python API Homework - What's the Weather Like?
+Python API Homework - What's the Weather Like? 
 
 ![equatorsign](https://github.com/sladertorres/python-api-challenge/assets/134868789/67c501b4-d82a-4d15-ab5e-6d4c63ae788f)
 
